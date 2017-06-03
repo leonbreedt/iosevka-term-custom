@@ -33,7 +33,7 @@ To get the exact same font rendering, you'll need to install the [hyper-font-smo
 
 And here's a sample of Atom using it.
 
-<img src="https://raw.githubusercontent.com/leonbreedt/iosevka-term-custom/master/PreviewAtom.png" alt="Atom Preview" width="1000" height="812">
+<img src="https://raw.githubusercontent.com/leonbreedt/iosevka-term-custom/master/PreviewAtom.png" alt="Atom Preview" width="993" height="804">
 
 To get the same font rendering in Atom, you'll want to make these changes to
 your stylesheet:
