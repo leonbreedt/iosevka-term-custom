@@ -14,7 +14,7 @@ You can download the latest build [here](https://raw.githubusercontent.com/leonb
 # Building
 
 If you want to build your own copy of this font, set up all the build tools as
-described on the Iosevka README, then run:
+described in the [Iosevka README](https://github.com/be5invis/Iosevka/blob/master/README.md#building-from-source), then run:
 
 ```shell
 make custom-config design='term v-zero-dotted v-tilde-low v-asterisk-low v-underscore-low v-at-short'
