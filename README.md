@@ -17,8 +17,8 @@ If you want to build your own copy of this font, set up all the build tools as
 described on the Iosevka README, then run:
 
 ```shell
-$ make custom-config design='term v-zero-dotted v-tilde-low v-asterisk-low v-underscore-low v-at-short'
-$ make custom
+make custom-config design='term v-zero-dotted v-tilde-low v-asterisk-low v-underscore-low v-at-short'
+make custom
 ```
 
 After a while, the built fonts will be in the `dist` folder.
